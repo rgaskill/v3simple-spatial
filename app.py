@@ -3,7 +3,7 @@ __author__ = 'spousty'
 from bottle import route, run, DEBUG
 import os
 
-
+print "hi"
 
 @route('/')
 def index():
